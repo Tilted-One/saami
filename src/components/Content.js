@@ -8,11 +8,13 @@ export default function Content() {
             <Wine
                 paragraph='Reprehenderit id labore mollit culpa ullamco aliquip pariatur anim ipsum minim veniam proident ipsum. Ut dolor deserunt ea exercitation qui occaecat aute voluptate sint deserunt eu adipisicing deserunt aliquip.'
                 flexDirection='text-left'
+                image=''
                 buttonDirection='bottom-0 left-10'
             />
             <Wine
                 paragraph='Reprehenderit id labore mollit culpa ullamco aliquip pariatur anim ipsum minim veniam proident ipsum.'
                 flexDirection='flex-row-reverse text-right'
+                image=''
                 buttonDirection='bottom-0 right-10'
             />
             <div></div>
